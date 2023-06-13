@@ -220,7 +220,7 @@
       <div class="container">
         <div class="section-header text-center">
           <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Meet our team</h2>
-          <p>A desire to help and empower others between community contributors in technology <br> began to grow in 2020.</p>
+          <p>Here are our staff and trainers for our driving courses, <br>who are highly skilled in driving, teaching, and certified as professional driving course trainers.</p>
         </div>
         <div class="row">
           <div class="col-sm-6 col-md-6 col-lg-3">
@@ -239,8 +239,8 @@
                 </div>
               </div>
               <div class="info-text">
-                <h3><a href="#">David Smith</a></h3>
-                <p>Chief Operating Officer</p>
+                <h3><a href="#">Haidar Zamzam</a></h3>
+                <p>Chief Executive Officer</p>
               </div>
             </div>
             <!-- Team Item Ends -->
@@ -262,7 +262,7 @@
               </div>
               <div class="info-text">
                 <h3><a href="#">Eric Peterson</a></h3>
-                <p>Product Designer</p>
+                <p>Administrative Staff</p>
               </div>
             </div>
             <!-- Team Item Ends -->
@@ -285,7 +285,7 @@
               </div>
               <div class="info-text">
                 <h3><a href="#">Durwin Babb</a></h3>
-                <p>Lead Designer</p>
+                <p>Lead Driving Instructors</p>
               </div>
             </div>
             <!-- Team Item Ends -->
@@ -308,7 +308,7 @@
               </div>
               <div class="info-text">
                 <h3><a href="#">Marijn Otte</a></h3>
-                <p>Front-end Developer</p>
+                <p>Driving Instructors</p>
               </div>
             </div>
             <!-- Team Item Ends -->
