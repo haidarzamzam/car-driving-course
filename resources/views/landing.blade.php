@@ -324,8 +324,8 @@
       <!-- Container Starts -->
       <div class="container">
         <div class="section-header text-center">
-          <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Our Works</h2>
-          <p>A desire to help and empower others between community contributors in technology <br> began to grow in 2020.</p>
+          <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Our Cars</h2>
+          <p>Here are the cars we provide, including both automatic and manual transmissions.<br>You can choose according to your preference.</p>
         </div>
         <div class="row">          
           <div class="col-md-12">
@@ -334,14 +334,11 @@
               <a class="filter active btn btn-common btn-effect" data-filter="all">
                 All 
               </a>
-              <a class="filter btn btn-common btn-effect" data-filter=".design">
-                Design 
+              <a class="filter btn btn-common btn-effect" data-filter=".matic">
+                Matic Transmission
               </a>
-              <a class="filter btn btn-common btn-effect" data-filter=".development">
-                Development
-              </a>
-              <a class="filter btn btn-common btn-effect" data-filter=".print">
-                Print 
+              <a class="filter btn btn-common btn-effect" data-filter=".manual">
+                Manual Transmission
               </a>
             </div>
             <!-- Portfolio Controller/Buttons Ends-->
@@ -350,102 +347,102 @@
 
         <!-- Portfolio Recent Projects -->
         <div id="portfolio" class="row">
-          <div class="col-lg-4 col-md-6 col-xs-12 mix development print">
+          <div class="col-lg-4 col-md-6 col-xs-12 mix manual">
             <div class="portfolio-item">
               <div class="shot-item">
-                <img src="assets/img/portfolio/img-1.jpg" alt="" />  
+                <img src="assets/img/cars/img-1.jpg" alt="" />  
                 <div class="single-content">
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="zoom-icon">
-                        <a class="lightbox" href="assets/img/portfolio/img-1.jpg"><i class="lni-eye item-icon"></i></a>
+                        <a class="lightbox" href="assets/img/cars/img-1.jpg"><i class="lni-eye item-icon"></i></a>
                       </div>
-                      <a href="#">Creative Design</a>
+                      <a href="#">Daihatsu Ayla</a>
                     </div>
                   </div>
                 </div>
               </div>               
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 col-xs-12 mix design print">
+          <div class="col-lg-4 col-md-6 col-xs-12 mix matic">
             <div class="portfolio-item">
               <div class="shot-item">
-                <img src="assets/img/portfolio/img-2.jpg" alt="" /> 
+                <img src="assets/img/cars/img-2.jpg" alt="" /> 
                 <div class="single-content">
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="zoom-icon">
-                        <a class="lightbox" href="assets/img/portfolio/img-2.jpg"><i class="lni-eye item-icon"></i></a>
+                        <a class="lightbox" href="assets/img/cars/img-2.jpg"><i class="lni-eye item-icon"></i></a>
                       </div>
-                      <a href="#">Retina Ready</a>
+                      <a href="#">Honda Brio</a>
                     </div>
                   </div>
                 </div>
               </div>               
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 col-xs-12 mix development">
+          <div class="col-lg-4 col-md-6 col-xs-12 mix manual">
             <div class="portfolio-item">
               <div class="shot-item">
-                <img src="assets/img/portfolio/img-3.jpg" alt="" />  
+                <img src="assets/img/cars/img-3.jpg" alt="" />  
                 <div class="single-content">
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="zoom-icon">
-                        <a class="lightbox" href="assets/img/portfolio/img-3.jpg"><i class="lni-eye item-icon"></i></a>
+                        <a class="lightbox" href="assets/img/cars/img-3.jpg"><i class="lni-eye item-icon"></i></a>
                       </div>
-                      <a href="#">Responsive</a>
+                      <a href="#">Daihatsu Sigra</a>
                     </div>
                   </div>
                 </div>
               </div>               
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 col-xs-12 mix development design">
+          <div class="col-lg-4 col-md-6 col-xs-12 mix matic">
             <div class="portfolio-item">
               <div class="shot-item">
-                <img src="assets/img/portfolio/img-4.jpg" alt="" /> 
+                <img src="assets/img/cars/img-4.jpg" alt="" /> 
                 <div class="single-content">
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="zoom-icon">
-                        <a class="lightbox" href="assets/img/portfolio/img-4.jpg"><i class="lni-eye item-icon"></i></a>
+                        <a class="lightbox" href="assets/img/cars/img-4.jpg"><i class="lni-eye item-icon"></i></a>
                       </div>
-                      <a href="#">Well Documented</a>
+                      <a href="#">Suzuki Ignis</a>
                     </div>
                   </div>
                 </div>
               </div>               
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 col-xs-12 mix development">
+          <div class="col-lg-4 col-md-6 col-xs-12 mix manual">
             <div class="portfolio-item">
               <div class="shot-item">
-                <img src="assets/img/portfolio/img-5.jpg" alt="" />  
+                <img src="assets/img/cars/img-5.jpg" alt="" />  
                 <div class="single-content">
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="zoom-icon">
-                        <a class="lightbox" href="assets/img/portfolio/img-5.jpg"><i class="lni-eye item-icon"></i></a>
+                        <a class="lightbox" href="assets/img/cars/img-5.jpg"><i class="lni-eye item-icon"></i></a>
                       </div>
-                      <a href="#">Customer Support</a>
+                      <a href="#">Kia Picanto</a>
                     </div>
                   </div>
                 </div>
               </div>               
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 col-xs-12 mix print design">
+          <div class="col-lg-4 col-md-6 col-xs-12 mix matic">
             <div class="portfolio-item">
               <div class="shot-item">
-                <img src="assets/img/portfolio/img-6.jpg" alt="" />  
+                <img src="assets/img/cars/img-6.jpg" alt="" />  
                 <div class="single-content">
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="zoom-icon">
-                        <a class="lightbox" href="assets/img/portfolio/img-6.jpg"><i class="lni-eye item-icon"></i></a>
+                        <a class="lightbox" href="assets/img/cars/img-6.jpg"><i class="lni-eye item-icon"></i></a>
                       </div>
-                      <a href="#">User Friendly</a>
+                      <a href="#">Mitsubishi Xpander</a>
                     </div>
                   </div>
                 </div>
