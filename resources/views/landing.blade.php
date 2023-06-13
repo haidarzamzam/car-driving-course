@@ -47,8 +47,8 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#services">
-                  Services
+                <a class="nav-link" href="#schedules">
+                  Schedules
                 </a>
               </li>
               <li class="nav-item">
@@ -85,7 +85,7 @@
               <div class="contents text-center">
                 <h2 class="head-title wow fadeInUp">We Discover, Design & Build Digital <br> Presence of Businesses</h2>
                 <div class="header-button wow fadeInUp" data-wow-delay="0.3s">
-                  <a href="#services" class="btn btn-common">Explore</a>
+                  <a href="#schedule" class="btn btn-common">Explore</a>
                 </div>
               </div>
               <div class="img-thumb text-center wow fadeInUp" data-wow-delay="0.6s">
@@ -100,82 +100,46 @@
     </header>
     <!-- Header Area wrapper End -->
 
-    <!-- Services Section Start -->
-    <section id="services" class="section-padding">
+    <!-- schedules Section Start -->
+    <section id="schedules" class="section-padding">
       <div class="container">
         <div class="section-header text-center">
-          <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Our Services</h2>
+          <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Our Schedules</h2>
           <p>A desire to help and empower others between community contributors in technology <br> began to grow in 2020.</p>
         </div>
         <div class="row">
-          <!-- Services item -->
+          <!-- Schedules item -->
           <div class="col-md-6 col-lg-4 col-xs-12">
-            <div class="services-item wow fadeInRight" data-wow-delay="0.3s">
+            <div class="schedules-item wow fadeInRight" data-wow-delay="0.3s">
               <div class="icon">
                 <i class="lni-pencil"></i>
               </div>
-              <div class="services-content">
+              <div class="schedules-content">
                 <h3><a href="#">Content Writing</a></h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde perspiciatis dicta labore nulla beatae quaerat quia incidunt laborum aspernatur...</p>
               </div>
             </div>
           </div>
-          <!-- Services item -->
+          <!-- Schedules item -->
           <div class="col-md-6 col-lg-4 col-xs-12">
-            <div class="services-item wow fadeInRight" data-wow-delay="0.6s">
+            <div class="schedules-item wow fadeInRight" data-wow-delay="0.6s">
               <div class="icon">
                 <i class="lni-briefcase"></i>
               </div>
-              <div class="services-content">
+              <div class="schedules-content">
                 <h3><a href="#">Digital Marketing</a></h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde perspiciatis dicta labore nulla beatae quaerat quia incidunt laborum aspernatur...</p>
               </div>
             </div>
           </div>
-          <!-- Services item -->
+          <!-- Schedules item -->
           <div class="col-md-6 col-lg-4 col-xs-12">
-            <div class="services-item wow fadeInRight" data-wow-delay="0.9s">
+            <div class="schedules-item wow fadeInRight" data-wow-delay="0.9s">
               <div class="icon">
                 <i class="lni-cog"></i>
               </div>
-              <div class="services-content">
+              <div class="schedules-content">
                 <h3><a href="#">Web Development</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde perspiciatis dicta labore nulla beatae quaerat quia incidunt laborum aspernatur...</p>
-              </div>
-            </div>
-          </div>
-          <!-- Services item -->
-          <div class="col-md-6 col-lg-4 col-xs-12">
-            <div class="services-item wow fadeInRight" data-wow-delay="1.2s">
-              <div class="icon">
-                <i class="lni-mobile"></i>
-              </div>
-              <div class="services-content">
-                <h3><a href="#">IOS & Android</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde perspiciatis dicta labore nulla beatae quaerat quia incidunt laborum aspernatur...</p>
-              </div>
-            </div>
-          </div>
-          <!-- Services item -->
-          <div class="col-md-6 col-lg-4 col-xs-12">
-            <div class="services-item wow fadeInRight" data-wow-delay="1.5s">
-              <div class="icon">
-                <i class="lni-layers"></i>
-              </div>
-              <div class="services-content">
-                <h3><a href="#">UI/UX Design</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde perspiciatis dicta labore nulla beatae quaerat quia incidunt laborum aspernatur...</p>
-              </div>
-            </div>
-          </div>
-          <!-- Services item -->
-          <div class="col-md-6 col-lg-4 col-xs-12">
-            <div class="services-item wow fadeInRight" data-wow-delay="1.8s">
-              <div class="icon">
-                <i class="lni-rocket"></i>
-              </div>
-              <div class="services-content">
-                <h3><a href="#">Branding & Identity</a></h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde perspiciatis dicta labore nulla beatae quaerat quia incidunt laborum aspernatur...</p>
               </div>
             </div>
@@ -183,7 +147,7 @@
         </div>
       </div>
     </section>
-    <!-- Services Section End -->
+    <!-- Schedules Section End -->
 
      <!-- Pricing section Start --> 
      <section id="pricing" class="section-padding bg-gray">
