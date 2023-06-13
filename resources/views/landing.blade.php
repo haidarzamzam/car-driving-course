@@ -47,18 +47,8 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#feature">
-                  Feature
-                </a>
-              </li>
-              <li class="nav-item">
                 <a class="nav-link" href="#services">
                   Services
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#team">
-                  Team
                 </a>
               </li>
               <li class="nav-item">
@@ -67,18 +57,13 @@
                 </a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="#team">
+                  Team
+                </a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="#portfolios">
                   Works
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#testimonial">
-                  Testimonial
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#blog">
-                  Blog
                 </a>
               </li>
               <li class="nav-item">
@@ -115,57 +100,8 @@
     </header>
     <!-- Header Area wrapper End -->
 
-    <!-- Feature Section Start -->
-    <div id="feature">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-lg-6 col-md-12 col-sm-12">
-            <div class="text-wrapper">
-              <div>
-                <h2 class="title-hl wow fadeInLeft" data-wow-delay="0.3s">We are helping to grow <br> your business.</h2>
-                <p class="mb-4">A digital studio specialising in User Experience & eCommerce, we combine innovation with digital craftsmanship to help brands fulfill their potential.</p>
-                <a href="#" class="btn btn-common">More About Us</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-12 col-sm-12 padding-none feature-bg">
-            <div class="feature-thumb">
-              <div class="feature-item wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
-                <div class="icon">
-                  <i class="lni-microphone"></i>
-                </div>
-                <div class="feature-content">
-                  <h3>What we do</h3>
-                  <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia con- sequuntur magni dolores </p>
-                </div>
-              </div>
-              <div class="feature-item wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="500ms">
-                <div class="icon">
-                  <i class="lni-users"></i>
-                </div>
-                <div class="feature-content">
-                  <h3>Meet our team</h3>
-                  <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia con- sequuntur magni dolores </p>
-                </div>
-              </div>
-              <div class="feature-item wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="700ms">
-                <div class="icon">
-                  <i class="lni-medall-alt"></i>
-                </div>
-                <div class="feature-content">
-                  <h3>Our Creation</h3>
-                  <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia con- sequuntur magni dolores </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Feature Section End -->
-
     <!-- Services Section Start -->
-    <section id="services" class="section-padding bg-gray">
+    <section id="services" class="section-padding">
       <div class="container">
         <div class="section-header text-center">
           <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Our Services</h2>
@@ -249,21 +185,75 @@
     </section>
     <!-- Services Section End -->
 
-    <!-- Start Video promo Section -->
-    <section class="video-promo section-padding">
-      <div class="overlay"></div>
+     <!-- Pricing section Start --> 
+     <section id="pricing" class="section-padding bg-gray">
       <div class="container">
+        <div class="section-header text-center">
+          <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Best Pricing</h2>
+          <p>A desire to help and empower others between community contributors in technology <br> began to grow in 2020.</p>
+        </div>
         <div class="row">
-          <div class="col-md-12 col-sm-12">
-            <div class="video-promo-content text-center wow fadeInUp" data-wow-delay="0.3s">
-              <a href="https://www.youtube.com/watch?v=yP6kdOZHids" class="video-popup"><i class="lni-film-play"></i></a>
-              <h2 class="mt-3 wow zoomIn" data-wow-duration="1000ms" data-wow-delay="100ms">Watch Video</h2>
-            </div>
+          <div class="col-lg-4 col-md-6 col-xs-12">
+            <div class="table wow fadeInLeft" data-wow-delay="1.2s">
+              <div class="title">
+                <h3>Basic</h3>
+              </div>
+              <div class="pricing-header">
+                <p class="price-value">$12.90<span>/ Month</span></p>
+              </div>
+              <ul class="description">
+                <li>Business Analyzing</li>
+                <li>24/7 Tech Suport</li>
+                <li>Operational Excellence</li>
+                <li>Business Idea Ready</li>
+                <li>2 Database</li>
+                <li>Customer Support</li>
+              </ul>
+              <button class="btn btn-common">Get It</button>
+            </div> 
+          </div>
+          <div class="col-lg-4 col-md-6 col-xs-12 active">
+            <div class="table wow fadeInUp" id="active-tb" data-wow-delay="1.2s">
+              <div class="title">
+                <h3>Profesional</h3>
+              </div>
+               <div class="pricing-header">
+                  <p class="price-value">$49.90<span>/ Month</span></p>
+               </div>
+              <ul class="description">
+                <li>Business Analyzing</li>
+                <li>24/7 Tech Suport</li>
+                <li>Operational Excellence</li>
+                <li>Business Idea Ready</li>
+                <li>2 Database</li>
+                <li>Customer Support</li>
+              </ul>
+              <button class="btn btn-common">Get It</button>
+           </div> 
+          </div>
+          <div class="col-lg-4 col-md-6 col-xs-12">
+            <div class="table wow fadeInRight" data-wow-delay="1.2s">
+              <div class="title">
+                <h3>Expert</h3>
+              </div>
+               <div class="pricing-header">
+                  <p class="price-value">$89.90<span>/ Month</span></p>
+               </div>
+              <ul class="description">
+                <li>Business Analyzing</li>
+                <li>24/7 Tech Suport</li>
+                <li>Operational Excellence</li>
+                <li>Business Idea Ready</li>
+                <li>2 Database</li>
+                <li>Customer Support</li>
+              </ul>
+              <button class="btn btn-common">Get It</button>
+            </div> 
           </div>
         </div>
       </div>
     </section>
-    <!-- End Video Promo Section -->
+    <!-- Pricing Table Section End -->
 
     <!-- Team Section Start -->
     <section id="team" class="section-padding text-center">
@@ -368,177 +358,6 @@
       </div>
     </section>
     <!-- Team Section End -->
-
-    <!-- Counter Section Start -->
-    <section id="counter" class="section-padding">
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row justify-content-between">
-          <div class="col-lg-12 col-md-12 col-xs-12">
-            <div class="row">
-              <!-- Start counter -->
-              <div class="col-lg-3 col-md-6 col-xs-12">
-                <div class="counter-box wow fadeInUp" data-wow-delay="0.2s">
-                  <div class="icon-o"><i class="lni-users"></i></div>
-                  <div class="fact-count">
-                    <h3><span class="counter">23576</span></h3>
-                    <p>Users</p>
-                  </div>
-                </div>
-              </div>
-              <!-- End counter -->
-              <!-- Start counter -->
-              <div class="col-lg-3 col-md-6 col-xs-12">
-                <div class="counter-box wow fadeInUp" data-wow-delay="0.4s">
-                  <div class="icon-o"><i class="lni-emoji-smile"></i></div>
-                  <div class="fact-count">
-                    <h3><span class="counter">2124</span></h3>
-                    <p>Positive Reviews</p>
-                  </div>
-                </div>
-              </div>
-              <!-- End counter -->
-              <!-- Start counter -->
-              <div class="col-lg-3 col-md-6 col-xs-12">
-                <div class="counter-box wow fadeInUp" data-wow-delay="0.6s">
-                  <div class="icon-o"><i class="lni-download"></i></div>
-                  <div class="fact-count">
-                    <h3><span class="counter">54598</span></h3>
-                    <p>Downloads</p>
-                  </div>
-                </div>
-              </div>
-              <!-- End counter -->
-              <!-- Start counter -->
-              <div class="col-lg-3 col-md-6 col-xs-12">
-                <div class="counter-box wow fadeInUp" data-wow-delay="0.8s">
-                  <div class="icon-o"><i class="lni-thumbs-up"></i></div>
-                  <div class="fact-count">
-                    <h3><span class="counter">3212</span></h3>
-                    <p>Followers</p>
-                  </div>
-                </div>
-              </div>
-              <!-- End counter -->
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- Counter Section End -->
-
-    <!-- Pricing section Start --> 
-    <section id="pricing" class="section-padding bg-gray">
-      <div class="container">
-        <div class="section-header text-center">
-          <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Best Pricing</h2>
-          <p>A desire to help and empower others between community contributors in technology <br> began to grow in 2020.</p>
-        </div>
-        <div class="row">
-          <div class="col-lg-4 col-md-6 col-xs-12">
-            <div class="table wow fadeInLeft" data-wow-delay="1.2s">
-              <div class="title">
-                <h3>Basic</h3>
-              </div>
-              <div class="pricing-header">
-                <p class="price-value">$12.90<span>/ Month</span></p>
-              </div>
-              <ul class="description">
-                <li>Business Analyzing</li>
-                <li>24/7 Tech Suport</li>
-                <li>Operational Excellence</li>
-                <li>Business Idea Ready</li>
-                <li>2 Database</li>
-                <li>Customer Support</li>
-              </ul>
-              <button class="btn btn-common">Get It</button>
-            </div> 
-          </div>
-          <div class="col-lg-4 col-md-6 col-xs-12 active">
-            <div class="table wow fadeInUp" id="active-tb" data-wow-delay="1.2s">
-              <div class="title">
-                <h3>Profesional</h3>
-              </div>
-               <div class="pricing-header">
-                  <p class="price-value">$49.90<span>/ Month</span></p>
-               </div>
-              <ul class="description">
-                <li>Business Analyzing</li>
-                <li>24/7 Tech Suport</li>
-                <li>Operational Excellence</li>
-                <li>Business Idea Ready</li>
-                <li>2 Database</li>
-                <li>Customer Support</li>
-              </ul>
-              <button class="btn btn-common">Get It</button>
-           </div> 
-          </div>
-          <div class="col-lg-4 col-md-6 col-xs-12">
-            <div class="table wow fadeInRight" data-wow-delay="1.2s">
-              <div class="title">
-                <h3>Expert</h3>
-              </div>
-               <div class="pricing-header">
-                  <p class="price-value">$89.90<span>/ Month</span></p>
-               </div>
-              <ul class="description">
-                <li>Business Analyzing</li>
-                <li>24/7 Tech Suport</li>
-                <li>Operational Excellence</li>
-                <li>Business Idea Ready</li>
-                <li>2 Database</li>
-                <li>Customer Support</li>
-              </ul>
-              <button class="btn btn-common">Get It</button>
-            </div> 
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- Pricing Table Section End -->
-
-    <div class="skill-area section-padding">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 col-md-12 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
-            <img class="img-fluid" src="assets/img/about/img-1.jpg" alt="" >
-          </div>
-          <div class="col-lg-6 col-md-12 col-xs-12 info wow fadeInRight" data-wow-delay="0.3s">
-            <div class="site-heading">
-              <h2 class="section-title">Our <span>Skill</span></h2>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus architecto laudantium dolorem, aut aspernatur modi minima alias provident obcaecati! Minima odio porro nemo magnam dolore minus asperiores veniam dolorum est!
-              </p>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, nesciunt possimus quaerat ipsam, corporis architecto aspernatur non aut! Dolorum consectetur placeat excepturi, perspiciatis sunt.
-              </p>
-            </div>
-            <div class="skills-section">
-              <!-- Progress Bar Start -->
-              <div class="progress-box">
-                <h5>Strategy &amp; Analysis <span class="pull-right">88%</span></h5>
-                <div class="progress" style="opacity: 1; left: 0px;">
-                  <div class="progress-bar" role="progressbar" data-width="87" style="width: 87%;"></div>
-                </div>
-              </div>
-              <div class="progress-box">
-                <h5>Eeconomic growth <span class="pull-right">95%</span></h5>
-                <div class="progress" style="opacity: 1; left: 0px;">
-                  <div class="progress-bar" role="progressbar" data-width="96" style="width: 96%;"></div>
-                </div>
-              </div>
-              <div class="progress-box">
-                <h5>Achieves goals <span class="pull-right">70%</span></h5>
-                <div class="progress" style="opacity: 1; left: 0px;">
-                  <div class="progress-bar" role="progressbar" data-width="52" style="width: 52%;"></div>
-                </div>
-              </div>
-              <!-- End Progressbar -->
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
     
     <!-- Portfolio Section -->
     <section id="portfolios" class="section-padding">
@@ -679,199 +498,6 @@
     </section>
     <!-- Portfolio Section Ends --> 
   
-    <!-- Testimonial Section Start -->
-    <section id="testimonial" class="testimonial section-padding">
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
-            <div id="testimonials" class="owl-carousel wow fadeInUp" data-wow-delay="1.2s">
-              <div class="item">
-                <div class="testimonial-item">
-                  <div class="img-thumb">
-                    <img src="assets/img/testimonial/img1.jpg" alt="">
-                  </div>
-                  <div class="info">
-                    <h2><a href="#">Grenchen Pearce</a></h2>
-                    <h3><a href="#">Boston Brothers co.</a></h3>
-                  </div>
-                  <div class="content">
-                    <p class="description">Holisticly empower leveraged ROI whereas effective web-readiness. Completely enable emerging meta-services with cross-platform web services. Quickly initiate inexpensive total linkage rather than extensible scenarios. Holisticly empower leveraged ROI whereas effective web-readiness. </p>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimonial-item">
-                  <div class="img-thumb">
-                    <img src="assets/img/testimonial/img2.jpg" alt="">
-                  </div>
-                  <div class="info">
-                    <h2><a href="#">Domeni GEsson</a></h2>
-                    <h3><a href="#">Awesome Technology co.</a></h3>
-                  </div>
-                  <div class="content">
-                    <p class="description">Holisticly empower leveraged ROI whereas effective web-readiness. Completely enable emerging meta-services with cross-platform web services. Quickly initiate inexpensive total linkage rather than extensible scenarios. Holisticly empower leveraged ROI whereas effective web-readiness. </p>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimonial-item">
-                  <div class="img-thumb">
-                    <img src="assets/img/testimonial/img3.jpg" alt="">
-                  </div>
-                  <div class="info">
-                    <h2><a href="#">Dommini Albert</a></h2>
-                    <h3><a href="#">Nesnal Design co.</a></h3>
-                  </div>
-                  <div class="content">
-                    <p class="description">Holisticly empower leveraged ROI whereas effective web-readiness. Completely enable emerging meta-services with cross-platform web services. Quickly initiate inexpensive total linkage rather than extensible scenarios. Holisticly empower leveraged ROI whereas effective web-readiness. </p>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimonial-item">
-                  <div class="img-thumb">
-                    <img src="assets/img/testimonial/img4.png" alt="">
-                  </div>
-                  <div class="info">
-                    <h2><a href="#">Fernanda Anaya</a></h2>
-                    <h3><a href="#">Developer</a></h3>
-                  </div>
-                  <div class="content">
-                    <p class="description">Holisticly empower leveraged ROI whereas effective web-readiness. Completely enable emerging meta-services with cross-platform web services. Quickly initiate inexpensive total linkage rather than extensible scenarios. Holisticly empower leveraged ROI whereas effective web-readiness. </p>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimonial-item">
-                  <div class="img-thumb">
-                    <img src="assets/img/testimonial/img5.png" alt="">
-                  </div>
-                  <div class="info">
-                    <h2><a href="#">Jason A.</a></h2>
-                    <h3><a href="#">Designer</a></h3>
-                  </div>
-                  <div class="content">
-                    <p class="description">Holisticly empower leveraged ROI whereas effective web-readiness. Completely enable emerging meta-services with cross-platform web services. Quickly initiate inexpensive total linkage rather than extensible scenarios. Holisticly empower leveraged ROI whereas effective web-readiness. </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- Testimonial Section End -->  
-
-    <!-- Blog Section -->
-    <section id="blog" class="section-padding">
-      <!-- Container Starts -->
-      <div class="container">
-        <div class="section-header text-center">
-          <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Latest blog</h2>
-          <p>A desire to help and empower others between community contributors in technology <br> began to grow in 2020.</p>
-        </div>
-        <div class="row">
-          <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 blog-item">
-            <!-- Blog Item Starts -->
-            <div class="blog-item-wrapper wow fadeInLeft" data-wow-delay="0.3s">
-              <div class="blog-item-img">
-                <a href="single-post.html">
-                  <img src="assets/img/blog/img1.jpg" alt="">
-                </a>                
-              </div>
-              <div class="blog-item-text"> 
-                <h3>
-                <a href="single-post.html">Suspendisse dictum non velit</a>
-                </h3>
-                <p>
-                Nunc in mauris a ante rhoncus tristique vitae et nisl. Quisque ullamcorper rutrum lacinia. Integer varius ornare egestas. 
-                </p>
-                <a href="single-post.html" class="btn btn-common btn-rm">Read More</a>
-              </div>
-            </div>
-            <!-- Blog Item Wrapper Ends-->
-          </div>
-
-          <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 blog-item">
-            <!-- Blog Item Starts -->
-            <div class="blog-item-wrapper wow fadeInUp" data-wow-delay="0.6s">
-              <div class="blog-item-img">
-                <a href="single-post.html">
-                  <img src="assets/img/blog/img2.jpg" alt="">
-                </a>                
-              </div>
-              <div class="blog-item-text"> 
-                <h3>
-                <a href="single-post.html">Remarkably Did Increasing</a>
-                </h3>
-                <p>
-                Nunc in mauris a ante rhoncus tristique vitae et nisl. Quisque ullamcorper rutrum lacinia. Integer varius ornare egestas. 
-                </p>
-                <a href="single-post.html" class="btn btn-common btn-rm">Read More</a>
-              </div>
-            </div>
-            <!-- Blog Item Wrapper Ends-->
-          </div>
-
-          <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12 blog-item">
-            <!-- Blog Item Starts -->
-            <div class="blog-item-wrapper wow fadeInRight" data-wow-delay="0.3s">
-              <div class="blog-item-img">
-                <a href="single-post.html">
-                  <img src="assets/img/blog/img3.jpg" alt="">
-                </a>                
-              </div>
-              <div class="blog-item-text"> 
-                <h3>
-                  <a href="single-post.html">Changing the topic scope</a>
-                </h3>
-                <p>
-                Nunc in mauris a ante rhoncus tristique vitae et nisl. Quisque ullamcorper rutrum lacinia. Integer varius ornare egestas. 
-                </p>
-                <a href="single-post.html" class="btn btn-common btn-rm">Read More</a>
-              </div>
-            </div>
-            <!-- Blog Item Wrapper Ends-->
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- blog Section End -->
-
-    <!-- Clients Section Start -->
-    <div id="clients" class="section-padding bg-gray">
-      <div class="container">
-        <div class="section-header text-center">
-          <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">NOTABLE CLIENTS</h2>
-          <p>Over the last 20 years, we have helped and guided organisations to achieve outstanding results</p>
-        </div>
-        <div class="row text-align-">
-          <div class="col-lg-3 col-md-3 col-xs-12 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="client-item-wrapper">
-              <img class="img-fluid" src="assets/img/clients/img1.png" alt="">
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-3 col-xs-12 wow fadeInUp" data-wow-delay="0.6s">
-            <div class="client-item-wrapper">
-              <img class="img-fluid" src="assets/img/clients/img2.png" alt="">
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-3 col-xs-12 wow fadeInUp" data-wow-delay="0.9s">
-            <div class="client-item-wrapper">
-              <img class="img-fluid" src="assets/img/clients/img3.png" alt="">
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-3 col-xs-12 wow fadeInUp" data-wow-delay="1.2s">
-            <div class="client-item-wrapper">
-              <img class="img-fluid"  src="assets/img/clients/img4.png" alt="">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Clients Section End -->
-
     <!-- Contact Section Start -->
     <section id="contact" class="section-padding">    
       <div class="container">
