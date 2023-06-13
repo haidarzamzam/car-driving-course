@@ -63,7 +63,7 @@
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#portfolios">
-                  Works
+                  Cars
                 </a>
               </li>
               <li class="nav-item">
@@ -499,8 +499,8 @@
           <div class="col-md-6 col-lg-6 col-sm-12">
             <div class="contact-right-area wow fadeIn">
               <div class="contact-title">
-                <h1>We're a friendly bunch..</h1>
-                <p>We create projects for companies and startups with a passion for quality</p>
+                <h1>Contact us soon to enhance your driving skills!</h1>
+                <p>We will teach you patiently and answer all your questions.</p>
               </div>
               <h2>Contact Us</h2>
               <div class="contact-right">
@@ -508,19 +508,19 @@
                   <div class="contact-icon">
                     <i class="lni-map-marker"></i>
                   </div>
-                  <p>ADDRESS: 28 Green Tower, New York City, USA</p>
+                  <p>ADDRESS: Jl. Raya Jauh Sekali no. 101, Jakarta, ID</p>
                 </div>
                 <div class="single-contact">
                   <div class="contact-icon">
                     <i class="lni-envelope"></i>
                   </div>
-                  <p><a href="#">Email:  contact@stuck.com</a></p>
+                  <p><a href="#">Email:  info@hai-car.com</a></p>
                 </div>
                 <div class="single-contact">
                   <div class="contact-icon">
                     <i class="lni-phone-handset"></i>
                   </div>
-                  <p><a href="#">Phone:  +84 846 250 592</a></p>
+                  <p><a href="#">Phone:  +62 8 1 234 6789 0</a></p>
                 </div>
               </div>
             </div>
@@ -548,7 +548,7 @@
             </div>
           </div>
           <div class="col-lg-4 col-md-5 col-xs-12">
-            <p class="float-right">Designed and Developed by <a href="http://uideck.com" rel="nofollow">UIdeck</a></p>
+            <p class="float-right">Developed by <a href="http://uideck.com" rel="nofollow">UIdeck</a>and modify by Haidar</p>
           </div> 
         </div>
       </div>
