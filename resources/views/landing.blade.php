@@ -105,18 +105,18 @@
       <div class="container">
         <div class="section-header text-center">
           <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Our Schedules</h2>
-          <p>A desire to help and empower others between community contributors in technology <br> began to grow in 2020.</p>
+          <p>We will serve you to the best of our ability so that <br> you can drive a car effectively according to the following schedules</p>
         </div>
         <div class="row">
           <!-- Schedules item -->
           <div class="col-md-6 col-lg-4 col-xs-12">
             <div class="schedules-item wow fadeInRight" data-wow-delay="0.3s">
               <div class="icon">
-                <i class="lni-pencil"></i>
+                <i class="lni-timer"></i>
               </div>
               <div class="schedules-content">
-                <h3><a href="#">Content Writing</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde perspiciatis dicta labore nulla beatae quaerat quia incidunt laborum aspernatur...</p>
+                <h3><a href="#">Weekdays</a></h3>
+                <p>We serve every weekday from 09:00 AM to 05:00 PM WIB.</p>
               </div>
             </div>
           </div>
@@ -124,11 +124,11 @@
           <div class="col-md-6 col-lg-4 col-xs-12">
             <div class="schedules-item wow fadeInRight" data-wow-delay="0.6s">
               <div class="icon">
-                <i class="lni-briefcase"></i>
+                <i class="lni-timer"></i>
               </div>
               <div class="schedules-content">
-                <h3><a href="#">Digital Marketing</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde perspiciatis dicta labore nulla beatae quaerat quia incidunt laborum aspernatur...</p>
+                <h3><a href="#">Saturday</a></h3>
+                <p>On Saturdays, we serve from 09:00 AM to 03:00 PM WIB."</p>
               </div>
             </div>
           </div>
@@ -136,11 +136,11 @@
           <div class="col-md-6 col-lg-4 col-xs-12">
             <div class="schedules-item wow fadeInRight" data-wow-delay="0.9s">
               <div class="icon">
-                <i class="lni-cog"></i>
+                <i class="lni-timer"></i>
               </div>
               <div class="schedules-content">
-                <h3><a href="#">Web Development</a></h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde perspiciatis dicta labore nulla beatae quaerat quia incidunt laborum aspernatur...</p>
+                <h3><a href="#">Sunday</a></h3>
+                <p>On Sundays, we are open for a brief period from 10:00 AM to 12:00 PM WIB.</p>
               </div>
             </div>
           </div>
