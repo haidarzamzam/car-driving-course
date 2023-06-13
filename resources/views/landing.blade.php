@@ -154,7 +154,7 @@
       <div class="container">
         <div class="section-header text-center">
           <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Best Pricing</h2>
-          <p>A desire to help and empower others between community contributors in technology <br> began to grow in 2020.</p>
+          <p>We provide an affordable slim driving package with the best price<br>and we are confident that it will suit all of you. (Each session is 1 hour long)</p>
         </div>
         <div class="row">
           <div class="col-lg-4 col-md-6 col-xs-12">
@@ -163,15 +163,12 @@
                 <h3>Basic</h3>
               </div>
               <div class="pricing-header">
-                <p class="price-value">$12.90<span>/ Month</span></p>
+                <p class="price-value">Rp500.000<span>/ 4 Session</span></p>
               </div>
               <ul class="description">
-                <li>Business Analyzing</li>
-                <li>24/7 Tech Suport</li>
-                <li>Operational Excellence</li>
-                <li>Business Idea Ready</li>
-                <li>2 Database</li>
-                <li>Customer Support</li>
+                <li>Includes fundamental driving skills and road rules</li>
+                <li>Practice sessions in low-traffic areas</li>
+                <li>Introduction to parking and basic maneuvers</li>
               </ul>
               <button class="btn btn-common">Get It</button>
             </div> 
@@ -179,18 +176,17 @@
           <div class="col-lg-4 col-md-6 col-xs-12 active">
             <div class="table wow fadeInUp" id="active-tb" data-wow-delay="1.2s">
               <div class="title">
-                <h3>Profesional</h3>
+                <h3>Intermediate</h3>
               </div>
                <div class="pricing-header">
-                  <p class="price-value">$49.90<span>/ Month</span></p>
+                  <p class="price-value">Rp900.000<span>/ 8 Session</span></p>
                </div>
               <ul class="description">
-                <li>Business Analyzing</li>
-                <li>24/7 Tech Suport</li>
-                <li>Operational Excellence</li>
-                <li>Business Idea Ready</li>
-                <li>2 Database</li>
-                <li>Customer Support</li>
+                <li>Builds upon the Basic Package</li>
+                <li>Emphasizes defensive driving techniques</li>
+                <li>Experience driving in moderate traffic conditions</li>
+                <li>Advanced parking techniques and maneuvering skills</li>
+                <li>Preparation for highway driving</li>
               </ul>
               <button class="btn btn-common">Get It</button>
            </div> 
@@ -198,18 +194,18 @@
           <div class="col-lg-4 col-md-6 col-xs-12">
             <div class="table wow fadeInRight" data-wow-delay="1.2s">
               <div class="title">
-                <h3>Expert</h3>
+                <h3>Advance</h3>
               </div>
                <div class="pricing-header">
-                  <p class="price-value">$89.90<span>/ Month</span></p>
+                  <p class="price-value">Rp1.300.000<span>/ 12 Session</span></p>
                </div>
               <ul class="description">
-                <li>Business Analyzing</li>
-                <li>24/7 Tech Suport</li>
-                <li>Operational Excellence</li>
-                <li>Business Idea Ready</li>
-                <li>2 Database</li>
-                <li>Customer Support</li>
+                <li>Comprehensive driving curriculum</li>
+                <li>Focuses on advanced driving skills and techniques</li>
+                <li>Extensive practice in various traffic scenarios</li>
+                <li>Highway driving skills, including merging and lane changes</li>
+                <li>Night driving and adverse weather conditions training</li>
+                <li>Preparation for driving license test</li>
               </ul>
               <button class="btn btn-common">Get It</button>
             </div> 
